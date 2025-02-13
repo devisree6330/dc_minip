@@ -1,4 +1,4 @@
 # DC Mini-Project 24-25
+Hey DCs!
 
-Hey Dcs!
-Each one of you create a branch here and push your codes to your respective branches. We will also upload any resources here for y'all to refer to for your tasks.
+Each of you, please create your own branch and push your code there. We'll also be uploading useful resources here for you to refer to as you work on your tasks.
